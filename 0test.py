@@ -1,5 +1,5 @@
 import sys
 input = sys.stdin.readline
 
-a = input()
-print(a)
+b = input()
+print(b)
